@@ -1,0 +1,2 @@
+# lxd
+adonai repository
